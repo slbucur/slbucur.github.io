@@ -1,0 +1,6 @@
+pipeline:
+  build:
+    image: alpine
+    commands:
+      - echo 'CI works'
+      - echo 'CI really works'
